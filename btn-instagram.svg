@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="177" height="40" viewBox="0 0 177 40">
+<rect x="0.5" y="0.5" width="176" height="39" rx="6" fill="#0b0b0b" stroke="#2b2b2b"/>
+<rect x="0.5" y="0.5" width="34" height="39" rx="6" fill="#151515" stroke="#2b2b2b"/>
+<rect x="28" y="1" width="7" height="38" fill="#151515"/>
+<line x1="34.5" y1="1" x2="34.5" y2="39" stroke="#2b2b2b"/>
+<text x="17.5" y="25" text-anchor="middle" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#f4efe6">◎</text>
+<text x="46" y="25" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#7b7b7b">&gt; <tspan fill="#d9d6d0" font-weight="700" letter-spacing="1">instagram</tspan></text>
+<text x="163" y="25" text-anchor="end" font-family="ui-monospace,'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#7b7b7b">↗</text>
+</svg>
